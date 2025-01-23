@@ -1,3 +1,12 @@
+=======
+# Task Demonstration and Commands with Screenshots
+
+## Name: Mohamed Aslam
+## College: Mepco Schlenk Engineering College
+
+
+---
+
 
 ## 1. Create a File and Add Executable Permission for All Users
 
@@ -96,5 +105,4 @@ ps
 
 ---
 
-These tasks demonstrate basic Linux commands for file management, permission modification, process viewing, and symbolic link creation.
 

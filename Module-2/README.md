@@ -1,4 +1,3 @@
-=======
 # Task Demonstration and Commands with Screenshots
 
 ## Name: Mohamed Aslam

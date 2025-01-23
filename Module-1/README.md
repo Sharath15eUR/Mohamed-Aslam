@@ -1,6 +1,8 @@
 # Task Demonstration and Commands with Screenshots
 
-This document provides detailed steps and screenshots for performing various Linux tasks.
+## Name: Mohamed Aslam
+## College: Mepco Schlenk Engineering College
+
 
 ---
 
@@ -101,5 +103,4 @@ ps
 
 ---
 
-These tasks demonstrate basic Linux commands for file management, permission modification, process viewing, and symbolic link creation.
 

@@ -1,8 +1,3 @@
-# Task Demonstration and Commands with Screenshots
-
-This document provides detailed steps and screenshots for performing various Linux tasks.
-
----
 
 ## 1. Create a File and Add Executable Permission for All Users
 

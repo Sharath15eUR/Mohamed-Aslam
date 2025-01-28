@@ -1,8 +1,8 @@
 
 
 ---
-##Name: Mohamed Aslam K
-##College: Mepco Schlenk Engineering College
+## Name: Mohamed Aslam K
+## College: Mepco Schlenk Engineering College
 
 ---
 

@@ -50,7 +50,7 @@ export FILE_COUNT=0
 TOTAL_SIZE=0
 
 for FILE in "${FILES[@]}"; do
-    [[ -e "$FILE" ]] || continue
+    
 
     DEST_FILE="$BACKUP_DIR/$(basename "$FILE")"
     if [ -e "$DEST_FILE" ]; then

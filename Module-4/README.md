@@ -52,7 +52,6 @@ The command to execute the script:
 ./file_extraction.sh input.txt
 ```
 
-Output:
 ![Execution](Results/1.png)
 
 ---

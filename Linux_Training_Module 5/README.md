@@ -140,13 +140,13 @@ exit 0
 ![RecursiveExecution](Results/1.png)
 2. **Search in a Specific File with Errors Logged**:
 ```bash
-./file_analyzer.sh -f file3.txt -k hw
+./file_analyzer.sh -f file3.txt -k h_w
 ```
 ![SpecificFile](Results/3.png)
 
 3.**Search in a Specific File without errors Logged**:
 ```bash
-./file_analyzer.sh -f file3.txt -k h_w
+./file_analyzer.sh -f file3.txt -k hw
 ```
 ![SpecificFile](Results/2.png)
 4. **Display the Help Menu**:

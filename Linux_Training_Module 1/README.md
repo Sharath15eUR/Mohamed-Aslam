@@ -75,7 +75,7 @@
 ### Command Steps:
 Run the `ps` command to list active processes:
 ```bash
-ps
+ps -aux
 ```
 
 ### Screenshot:

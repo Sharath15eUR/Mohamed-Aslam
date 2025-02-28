@@ -58,7 +58,7 @@
   ```
 
 **Screenshot:**
-![Wireshark TCP Filter](Results/3-1.pngZ)
+![Wireshark TCP Filter](Results/3-1.png)
 ![tcpdump Packet Capture](Results/3-2.png)
 
 ---

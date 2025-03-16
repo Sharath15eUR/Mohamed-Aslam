@@ -14,7 +14,6 @@
 ---
 
 ## 2. Manually configure and Traceroute Tracking 
-![Network Hierarchy](Results/2.png)
 ![ARP Table Before Spoofing](Results/2-1.png)
 ![MAC Address of Threat System Before Spoofing](Results/2-2.png)
 ![MAC Address of Threat System After Spoofing](Results/2-3.png)

@@ -1,4 +1,4 @@
-# Networking Training Program (Module 1 & 2)
+# Networking Training Program (Module 3 & 4)
 ---
 
 ## 1. Simulation of Small Network with Multiple devices
